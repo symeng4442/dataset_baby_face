@@ -1,0 +1,9 @@
+path: D:/suyumeng/Datasets/Baby_Face
+train: images/train
+val: images/val
+test:
+
+# Classes
+names:
+  0: danger
+  1: safe
